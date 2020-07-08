@@ -1,0 +1,2523 @@
+{
+    "nextPage": 2,
+    "results": [
+        {
+            "id": 1,
+            "name": "bulbasaur",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+            "color": "rgb(52, 199, 89)",
+            "desc": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
+            "evolution_chain": "1",
+            "types": [
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 28
+        },
+        {
+            "id": 2,
+            "name": "ivysaur",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+            "color": "rgb(52, 199, 89)",
+            "desc": "There is a bud on this Pokémon’s back. To support its weight, Ivysaur’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.",
+            "evolution_chain": "1",
+            "types": [
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 8
+        },
+        {
+            "id": 3,
+            "name": "venusaur",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+            "color": "rgb(52, 199, 89)",
+            "desc": "There is a large flower on Venusaur’s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.",
+            "evolution_chain": "1",
+            "types": [
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 92
+        },
+        {
+            "id": 4,
+            "name": "charmander",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+            "evolution_chain": "2",
+            "types": [
+                {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            ],
+            "price": 53
+        },
+        {
+            "id": 5,
+            "name": "charmeleon",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+            "evolution_chain": "2",
+            "types": [
+                {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            ],
+            "price": 63
+        },
+        {
+            "id": 6,
+            "name": "charizard",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+            "evolution_chain": "2",
+            "types": [
+                {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 72
+        },
+        {
+            "id": 7,
+            "name": "squirtle",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Squirtle’s shell is not merely used for protection. The shell’s rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+            "evolution_chain": "3",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 55
+        },
+        {
+            "id": 8,
+            "name": "wartortle",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon’s toughness as a battler.",
+            "evolution_chain": "3",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 13
+        },
+        {
+            "id": 9,
+            "name": "blastoise",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+            "evolution_chain": "3",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 45
+        },
+        {
+            "id": 10,
+            "name": "caterpie",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+            "color": "rgb(52, 199, 89)",
+            "desc": "Perhaps because it would like to grow up quickly, it has a voracious appetite, eating a hundred leaves a day.",
+            "evolution_chain": "4",
+            "types": [
+                {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            ],
+            "price": 57
+        },
+        {
+            "id": 11,
+            "name": "metapod",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+            "color": "rgb(52, 199, 89)",
+            "desc": "Its shell is filled with a thick liquid. All of the cells throughout its body are being rebuilt in preparation for evolution.",
+            "evolution_chain": "4",
+            "types": [
+                {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            ],
+            "price": 14
+        },
+        {
+            "id": 12,
+            "name": "butterfree",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+            "color": "white",
+            "desc": "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off.",
+            "evolution_chain": "4",
+            "types": [
+                {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 48
+        },
+        {
+            "id": 13,
+            "name": "weedle",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+            "evolution_chain": "5",
+            "types": [
+                {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 30
+        },
+        {
+            "id": 14,
+            "name": "kakuna",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+            "evolution_chain": "5",
+            "types": [
+                {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 101
+        },
+        {
+            "id": 15,
+            "name": "beedrill",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+            "evolution_chain": "5",
+            "types": [
+                {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 96
+        },
+        {
+            "id": 16,
+            "name": "pidgey",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+            "evolution_chain": "6",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 95
+        },
+        {
+            "id": 17,
+            "name": "pidgeotto",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+            "evolution_chain": "6",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 51
+        },
+        {
+            "id": 18,
+            "name": "pidgeot",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
+            "evolution_chain": "6",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 106
+        },
+        {
+            "id": 19,
+            "name": "rattata",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Its incisors grow continuously throughout its life. If its incisors get too long, this Pokémon becomes unable to eat, and it starves to death.",
+            "evolution_chain": "7",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            ],
+            "price": 16
+        },
+        {
+            "id": 20,
+            "name": "raticate",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.",
+            "evolution_chain": "7",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            ],
+            "price": 17
+        },
+        {
+            "id": 21,
+            "name": "spearow",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Its reckless nature leads it to stand up to others—even large Pokémon—if it has to protect its territory.",
+            "evolution_chain": "8",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 52
+        },
+        {
+            "id": 22,
+            "name": "fearow",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Carrying food through Fearow’s territory is dangerous. It will snatch the food away from you in a flash!",
+            "evolution_chain": "8",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 43
+        },
+        {
+            "id": 23,
+            "name": "ekans",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
+            "evolution_chain": "9",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 53
+        },
+        {
+            "id": 24,
+            "name": "arbok",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "The latest research has determined that there are over 20 possible arrangements of the patterns on its stomach.",
+            "evolution_chain": "9",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 83
+        },
+        {
+            "id": 25,
+            "name": "pikachu",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
+            "evolution_chain": "10",
+            "types": [
+                {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            ],
+            "price": 55
+        },
+        {
+            "id": 26,
+            "name": "raichu",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "As electricity builds up inside its body, it becomes more aggressive. One theory is that the electricity buildup is actually causing stress.",
+            "evolution_chain": "10",
+            "types": [
+                {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            ],
+            "price": 18
+        },
+        {
+            "id": 27,
+            "name": "sandshrew",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "It lives in areas of limited rainfall. When danger approaches, it curls up into a ball to protect its soft stomach.",
+            "evolution_chain": "11",
+            "types": [
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            ],
+            "price": 38
+        },
+        {
+            "id": 28,
+            "name": "sandslash",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "Its claws and horns often break off. The broken claws and horns can be used to carve plows for tilling farm fields.",
+            "evolution_chain": "11",
+            "types": [
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            ],
+            "price": 61
+        },
+        {
+            "id": 29,
+            "name": "nidoran-f",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+            "evolution_chain": "12",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 57
+        },
+        {
+            "id": 30,
+            "name": "nidorina",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
+            "evolution_chain": "12",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 49
+        },
+        {
+            "id": 31,
+            "name": "nidoqueen",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Nidoqueen’s body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
+            "evolution_chain": "12",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                },
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            ],
+            "price": 64
+        },
+        {
+            "id": 32,
+            "name": "nidoran-m",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon’s notice.",
+            "evolution_chain": "13",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 50
+        },
+        {
+            "id": 33,
+            "name": "nidorino",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+            "evolution_chain": "13",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 43
+        },
+        {
+            "id": 34,
+            "name": "nidoking",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Nidoking’s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
+            "evolution_chain": "13",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                },
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            ],
+            "price": 90
+        },
+        {
+            "id": 35,
+            "name": "clefairy",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+            "color": "pink",
+            "desc": "They’re popular, but they’re rare. Trainers who show them off recklessly may be targeted by thieves.",
+            "evolution_chain": "14",
+            "types": [
+                {
+                    "name": "fairy",
+                    "url": "https://pokeapi.co/api/v2/type/18/"
+                }
+            ],
+            "price": 98
+        },
+        {
+            "id": 36,
+            "name": "clefable",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+            "color": "pink",
+            "desc": "It can’t help but hear a pin drop from over half a mile away, so it lives deep in the mountains where there aren’t many people or Pokémon.",
+            "evolution_chain": "14",
+            "types": [
+                {
+                    "name": "fairy",
+                    "url": "https://pokeapi.co/api/v2/type/18/"
+                }
+            ],
+            "price": 122
+        },
+        {
+            "id": 37,
+            "name": "vulpix",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Its beautiful tails have made it very popular. However, if it’s not brushed diligently, it will be a mass of tangles before you know it.",
+            "evolution_chain": "15",
+            "types": [
+                {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            ],
+            "price": 85
+        },
+        {
+            "id": 38,
+            "name": "ninetales",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "It is vindictive and relentless by nature. Those who cross it even once will be cursed for a thousand years, along with their descendants.",
+            "evolution_chain": "15",
+            "types": [
+                {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            ],
+            "price": 18
+        },
+        {
+            "id": 39,
+            "name": "jigglypuff",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+            "color": "pink",
+            "desc": "Recordings of Jigglypuff’s strange lullabies can be purchased from department stores. These CDs can be found near the bedding area.",
+            "evolution_chain": "16",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                },
+                {
+                    "name": "fairy",
+                    "url": "https://pokeapi.co/api/v2/type/18/"
+                }
+            ],
+            "price": 97
+        },
+        {
+            "id": 40,
+            "name": "wigglytuff",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+            "color": "pink",
+            "desc": "Thanks to its bouncy body and fine fur, this Pokémon is sought after. Holding one in your arms while you sleep feels great.",
+            "evolution_chain": "16",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                },
+                {
+                    "name": "fairy",
+                    "url": "https://pokeapi.co/api/v2/type/18/"
+                }
+            ],
+            "price": 95
+        },
+        {
+            "id": 41,
+            "name": "zubat",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "It has no eyeballs, so it can’t see. It checks its surroundings via the ultrasonic waves it emits from its mouth.",
+            "evolution_chain": "17",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 80
+        },
+        {
+            "id": 42,
+            "name": "golbat",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Every once in a while, you’ll see a Golbat that’s missing some fangs. This happens when hunger drives it to try biting a Steel-type Pokémon.",
+            "evolution_chain": "17",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 109
+        },
+        {
+            "id": 43,
+            "name": "oddish",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon’s feet are thought to change shape and become similar to the roots of trees.",
+            "evolution_chain": "18",
+            "types": [
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 80
+        },
+        {
+            "id": 44,
+            "name": "gloom",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
+            "evolution_chain": "18",
+            "types": [
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 52
+        },
+        {
+            "id": 45,
+            "name": "vileplume",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "Vileplume has the world’s largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this Pokémon catches and devours them.",
+            "evolution_chain": "18",
+            "types": [
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 30
+        },
+        {
+            "id": 46,
+            "name": "paras",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "Whether it’s due to a lack of moisture or a lack of nutrients, in Alola the mushrooms on Paras don’t grow up quite right.",
+            "evolution_chain": "19",
+            "types": [
+                {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                },
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            ],
+            "price": 21
+        },
+        {
+            "id": 47,
+            "name": "parasect",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.",
+            "evolution_chain": "19",
+            "types": [
+                {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                },
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            ],
+            "price": 54
+        },
+        {
+            "id": 48,
+            "name": "venonat",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.",
+            "evolution_chain": "20",
+            "types": [
+                {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 87
+        },
+        {
+            "id": 49,
+            "name": "venomoth",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+            "evolution_chain": "20",
+            "types": [
+                {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 48
+        },
+        {
+            "id": 50,
+            "name": "diglett",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "It travels through tunnels that it digs underground. It hates sunlight, so it comes out only after the sun goes down.",
+            "evolution_chain": "21",
+            "types": [
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            ],
+            "price": 111
+        },
+        {
+            "id": 51,
+            "name": "dugtrio",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "While the three of them normally get along splendidly, on rare occasions a huge fight will break out over which head gets to eat first.",
+            "evolution_chain": "21",
+            "types": [
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            ],
+            "price": 72
+        },
+        {
+            "id": 52,
+            "name": "meowth",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "When visiting a junkyard, you may catch sight of it having an intense fight with Murkrow over shiny objects.",
+            "evolution_chain": "22",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            ],
+            "price": 27
+        },
+        {
+            "id": 53,
+            "name": "persian",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "Although the jewel on its forehead appears to be a different color than those of Alolan Persian, it’s mostly made of the same material.",
+            "evolution_chain": "22",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            ],
+            "price": 97
+        },
+        {
+            "id": 54,
+            "name": "psyduck",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
+            "evolution_chain": "23",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 26
+        },
+        {
+            "id": 55,
+            "name": "golduck",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Even fast-swimming fish Pokémon can be disabled by Golduck. It brings them to a standstill and seizes them.",
+            "evolution_chain": "23",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 110
+        },
+        {
+            "id": 56,
+            "name": "mankey",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "The smallest of things could cause it to lose its temper. Because it doesn’t hold in its stress, this Pokémon can live a long time.",
+            "evolution_chain": "24",
+            "types": [
+                {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            ],
+            "price": 49
+        },
+        {
+            "id": 57,
+            "name": "primeape",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "It will never forgive opponents who have angered it. Even after it has beaten them down until they can’t move, it never ever forgives.",
+            "evolution_chain": "24",
+            "types": [
+                {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            ],
+            "price": 64
+        },
+        {
+            "id": 58,
+            "name": "growlithe",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "While it’s quite friendly toward humans once it’s grown used to them, in the wild it must be quite fierce to defend its territory from Rockruff.",
+            "evolution_chain": "25",
+            "types": [
+                {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            ],
+            "price": 28
+        },
+        {
+            "id": 59,
+            "name": "arcanine",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Legends tell of its fighting alongside a general and conquering a whole country.",
+            "evolution_chain": "25",
+            "types": [
+                {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            ],
+            "price": 64
+        },
+        {
+            "id": 60,
+            "name": "poliwag",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Despite the danger, it wants to come up on land. So it does its best to waddle along, but when an enemy finds it, it rushes back to the water.",
+            "evolution_chain": "26",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 144
+        },
+        {
+            "id": 61,
+            "name": "poliwhirl",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Although it has become capable of living on land, it spends its time in the water, where its prey, fish Pokémon, are plentiful.",
+            "evolution_chain": "26",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 91
+        },
+        {
+            "id": 62,
+            "name": "poliwrath",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "It’s quite a gifted swimmer, even among Water-type Pokémon, but it normally spends its time on land.",
+            "evolution_chain": "26",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                },
+                {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            ],
+            "price": 34
+        },
+        {
+            "id": 63,
+            "name": "abra",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "It uses various psychic powers even while it’s sleeping, so you can’t tell whether or not it’s awake.",
+            "evolution_chain": "27",
+            "types": [
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            ],
+            "price": 100
+        },
+        {
+            "id": 64,
+            "name": "kadabra",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "It stares at a silver spoon to amplify its psychic powers before it lets loose. Apparently, gold spoons are no good.",
+            "evolution_chain": "27",
+            "types": [
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            ],
+            "price": 137
+        },
+        {
+            "id": 65,
+            "name": "alakazam",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Alakazam uses its psychic powers to make the spoons it carries. Each spoon is an original that there’s only one of in the whole world.",
+            "evolution_chain": "27",
+            "types": [
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            ],
+            "price": 51
+        },
+        {
+            "id": 66,
+            "name": "machop",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+            "color": "gray",
+            "desc": "Once this Pokémon has gained enough confidence and muscle from training with its friends, it challenges Makuhita to a battle.",
+            "evolution_chain": "28",
+            "types": [
+                {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            ],
+            "price": 44
+        },
+        {
+            "id": 67,
+            "name": "machoke",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+            "color": "gray",
+            "desc": "When it encounters an enemy that’s truly mighty, this Pokémon removes the power-save belt from its waist and unleashes its full power.",
+            "evolution_chain": "28",
+            "types": [
+                {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            ],
+            "price": 62
+        },
+        {
+            "id": 68,
+            "name": "machamp",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+            "color": "gray",
+            "desc": "It grasps its opponents with its four arms and twists them up in an intricate hold. People call it “the Machamp special.”",
+            "evolution_chain": "28",
+            "types": [
+                {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            ],
+            "price": 76
+        },
+        {
+            "id": 69,
+            "name": "bellsprout",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+            "color": "rgb(52, 199, 89)",
+            "desc": "Bellsprout’s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron.",
+            "evolution_chain": "29",
+            "types": [
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 67
+        },
+        {
+            "id": 70,
+            "name": "weepinbell",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+            "color": "rgb(52, 199, 89)",
+            "desc": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
+            "evolution_chain": "29",
+            "types": [
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 84
+        },
+        {
+            "id": 71,
+            "name": "victreebel",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+            "color": "rgb(52, 199, 89)",
+            "desc": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
+            "evolution_chain": "29",
+            "types": [
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 108
+        },
+        {
+            "id": 72,
+            "name": "tentacool",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "It drifts through the sea searching for prey. Its poisonous tentacles break off sometimes, but after a while, they grow back.",
+            "evolution_chain": "30",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 76
+        },
+        {
+            "id": 73,
+            "name": "tentacruel",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "It fires off ultrasonic waves from its red orbs to weaken its prey, and then it wraps them up in its 80 tentacles.",
+            "evolution_chain": "30",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 108
+        },
+        {
+            "id": 74,
+            "name": "geodude",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Geodude that have lived a long life have had all their edges smoothed out until they’re totally round. They also have a calm, quiet disposition.",
+            "evolution_chain": "31",
+            "types": [
+                {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                },
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            ],
+            "price": 116
+        },
+        {
+            "id": 75,
+            "name": "graveler",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "It climbs up cliffs as it heads toward the peak of a mountain. As soon as it reaches the summit, it rolls back down the way it came.",
+            "evolution_chain": "31",
+            "types": [
+                {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                },
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            ],
+            "price": 44
+        },
+        {
+            "id": 76,
+            "name": "golem",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss.",
+            "evolution_chain": "31",
+            "types": [
+                {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                },
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            ],
+            "price": 87
+        },
+        {
+            "id": 77,
+            "name": "ponyta",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.",
+            "evolution_chain": "32",
+            "types": [
+                {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            ],
+            "price": 14
+        },
+        {
+            "id": 78,
+            "name": "rapidash",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+            "evolution_chain": "32",
+            "types": [
+                {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            ],
+            "price": 83
+        },
+        {
+            "id": 79,
+            "name": "slowpoke",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+            "color": "pink",
+            "desc": "There are some places where Slowpoke is worshiped because of a long-standing belief that whenever Slowpoke yawns, it rains.",
+            "evolution_chain": "33",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                },
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            ],
+            "price": 85
+        },
+        {
+            "id": 80,
+            "name": "slowbro",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+            "color": "pink",
+            "desc": "Spacing out is basically all it does. It turns back into Slowpoke if its tail, along with Shellder, breaks off.",
+            "evolution_chain": "33",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                },
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            ],
+            "price": 34
+        },
+        {
+            "id": 81,
+            "name": "magnemite",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+            "color": "gray",
+            "desc": "It’s frequently the cause of power outages, which is why some power plants send out electrical signals that it can’t stand.",
+            "evolution_chain": "34",
+            "types": [
+                {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                },
+                {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            ],
+            "price": 100
+        },
+        {
+            "id": 82,
+            "name": "magneton",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+            "color": "gray",
+            "desc": "Delicate equipment can malfunction in areas inhabited by Magneton, which send out mysterious electrical signals.",
+            "evolution_chain": "34",
+            "types": [
+                {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                },
+                {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            ],
+            "price": 43
+        },
+        {
+            "id": 83,
+            "name": "farfetchd",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Farfetch’d is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
+            "evolution_chain": "35",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 130
+        },
+        {
+            "id": 84,
+            "name": "doduo",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Doduo’s two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this Pokémon possessing different sets of brains.",
+            "evolution_chain": "36",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 126
+        },
+        {
+            "id": 85,
+            "name": "dodrio",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Apparently, the heads aren’t the only parts of the body that Dodrio has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest.",
+            "evolution_chain": "36",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 42
+        },
+        {
+            "id": 86,
+            "name": "seel",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+            "color": "white",
+            "desc": "It has always been supposed that Seel live only in cold seas. Their having shown up in Alola is a mystery.",
+            "evolution_chain": "37",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 65
+        },
+        {
+            "id": 87,
+            "name": "dewgong",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+            "color": "white",
+            "desc": "It swims through the ocean at a speed of eight knots, searching for Pokémon that will become its prey. It’s especially fond of Wishiwashi.",
+            "evolution_chain": "37",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                },
+                {
+                    "name": "ice",
+                    "url": "https://pokeapi.co/api/v2/type/15/"
+                }
+            ],
+            "price": 11
+        },
+        {
+            "id": 88,
+            "name": "grimer",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "It was born from sludge on the ocean floor. In a sterile environment, the germs within its body can’t multiply, and it dies.",
+            "evolution_chain": "38",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 17
+        },
+        {
+            "id": 89,
+            "name": "muk",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Their food sources have decreased, and their numbers have declined sharply. Sludge ponds are being built to prevent their extinction.",
+            "evolution_chain": "38",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 46
+        },
+        {
+            "id": 90,
+            "name": "shellder",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "The sand that accumulates inside its shell eventually becomes a pearl. But the pearl gets in the way, so it spits it out and discards it.",
+            "evolution_chain": "39",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 30
+        },
+        {
+            "id": 91,
+            "name": "cloyster",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "If areas of Cloyster’s very hard shell get damaged, those areas swell, gradually growing into large sharp spikes.",
+            "evolution_chain": "39",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                },
+                {
+                    "name": "ice",
+                    "url": "https://pokeapi.co/api/v2/type/15/"
+                }
+            ],
+            "price": 51
+        },
+        {
+            "id": 92,
+            "name": "gastly",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "It’s said that gas emanating from a graveyard was possessed by the grievances of the deceased and thus became a Pokémon.",
+            "evolution_chain": "40",
+            "types": [
+                {
+                    "name": "ghost",
+                    "url": "https://pokeapi.co/api/v2/type/8/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 123
+        },
+        {
+            "id": 93,
+            "name": "haunter",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "On moonless nights, Haunter searches for someone to curse, so it’s best not to go out walking around.",
+            "evolution_chain": "40",
+            "types": [
+                {
+                    "name": "ghost",
+                    "url": "https://pokeapi.co/api/v2/type/8/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 117
+        },
+        {
+            "id": 94,
+            "name": "gengar",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "You can hear tales told all over the world about how Gengar will pay a visit to children who are naughty.",
+            "evolution_chain": "40",
+            "types": [
+                {
+                    "name": "ghost",
+                    "url": "https://pokeapi.co/api/v2/type/8/"
+                },
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 112
+        },
+        {
+            "id": 95,
+            "name": "onix",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+            "color": "gray",
+            "desc": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+            "evolution_chain": "41",
+            "types": [
+                {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                },
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            ],
+            "price": 12
+        },
+        {
+            "id": 96,
+            "name": "drowzee",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "It can be spotted near recreational facilities, intending to eat the pleasant dreams of children who enjoyed themselves there that day.",
+            "evolution_chain": "42",
+            "types": [
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            ],
+            "price": 85
+        },
+        {
+            "id": 97,
+            "name": "hypno",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "In Alola, Komala is Hypno’s main target. It rarely harms people.",
+            "evolution_chain": "42",
+            "types": [
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            ],
+            "price": 103
+        },
+        {
+            "id": 98,
+            "name": "krabby",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
+            "evolution_chain": "43",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 26
+        },
+        {
+            "id": 99,
+            "name": "kingler",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
+            "evolution_chain": "43",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 94
+        },
+        {
+            "id": 100,
+            "name": "voltorb",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "Voltorb is extremely sensitive—it explodes at the slightest of shocks. It is rumored that it was first created when a Poké Ball was exposed to a powerful pulse of energy.",
+            "evolution_chain": "44",
+            "types": [
+                {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            ],
+            "price": 79
+        },
+        {
+            "id": 101,
+            "name": "electrode",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "One of Electrode’s characteristics is its attraction to electricity. It is a problematical Pokémon that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
+            "evolution_chain": "44",
+            "types": [
+                {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            ],
+            "price": 59
+        },
+        {
+            "id": 102,
+            "name": "exeggcute",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+            "color": "pink",
+            "desc": "Six of them form a single Pokémon. Should one of the six be lost, the next morning there will once more be six.",
+            "evolution_chain": "45",
+            "types": [
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                },
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            ],
+            "price": 134
+        },
+        {
+            "id": 103,
+            "name": "exeggutor",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "It engages its enemies using psychic powers. Each of its three heads fires off psychokinetic energy, tripling its power.",
+            "evolution_chain": "45",
+            "types": [
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                },
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            ],
+            "price": 93
+        },
+        {
+            "id": 104,
+            "name": "cubone",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "At night, it weeps loudly for its dead mother, but those cries only attract its natural enemy—Mandibuzz.",
+            "evolution_chain": "46",
+            "types": [
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            ],
+            "price": 158
+        },
+        {
+            "id": 105,
+            "name": "marowak",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "It throws bones at Mandibuzz to knock it down. It’s thought that Marowak is trying to avenge its parent.",
+            "evolution_chain": "46",
+            "types": [
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            ],
+            "price": 134
+        },
+        {
+            "id": 106,
+            "name": "hitmonlee",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Hitmonlee’s legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+            "evolution_chain": "47",
+            "types": [
+                {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            ],
+            "price": 115
+        },
+        {
+            "id": 107,
+            "name": "hitmonchan",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
+            "evolution_chain": "47",
+            "types": [
+                {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            ],
+            "price": 20
+        },
+        {
+            "id": 108,
+            "name": "lickitung",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+            "color": "pink",
+            "desc": "It checks out whatever’s around it by licking everything. If you don’t clean off a spot where it’s licked you, you’ll break out in a rash!",
+            "evolution_chain": "48",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            ],
+            "price": 105
+        },
+        {
+            "id": 109,
+            "name": "koffing",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful poison gas. The higher the temperature, the more gas is concocted by this Pokémon.",
+            "evolution_chain": "49",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 104
+        },
+        {
+            "id": 110,
+            "name": "weezing",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.",
+            "evolution_chain": "49",
+            "types": [
+                {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            ],
+            "price": 121
+        },
+        {
+            "id": 111,
+            "name": "rhyhorn",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+            "color": "gray",
+            "desc": "Rhyhorn’s brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
+            "evolution_chain": "50",
+            "types": [
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                },
+                {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                }
+            ],
+            "price": 130
+        },
+        {
+            "id": 112,
+            "name": "rhydon",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+            "color": "gray",
+            "desc": "Rhydon has a horn that serves as a drill. It is used for destroying rocks and boulders. This Pokémon occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.",
+            "evolution_chain": "50",
+            "types": [
+                {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                },
+                {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                }
+            ],
+            "price": 115
+        },
+        {
+            "id": 113,
+            "name": "chansey",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+            "color": "pink",
+            "desc": "It seems that other Pokémon’s efforts to take its delicious, nutritious egg away from it caused Chansey to get faster at fleeing.",
+            "evolution_chain": "51",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            ],
+            "price": 138
+        },
+        {
+            "id": 114,
+            "name": "tangela",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Tangela’s vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+            "evolution_chain": "52",
+            "types": [
+                {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            ],
+            "price": 115
+        },
+        {
+            "id": 115,
+            "name": "kangaskhan",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Kangaskhan protects its child by keeping it in its pouch. It has zero forgiveness for those who harm its child and will beat them down.",
+            "evolution_chain": "53",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            ],
+            "price": 121
+        },
+        {
+            "id": 116,
+            "name": "horsea",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pokémon swims by cleverly flapping the fin on its back.",
+            "evolution_chain": "54",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 133
+        },
+        {
+            "id": 117,
+            "name": "seadra",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Seadra generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This Pokémon weakens prey with these currents, then swallows it whole.",
+            "evolution_chain": "54",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 45
+        },
+        {
+            "id": 118,
+            "name": "goldeen",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "Although known for their splendid tail fins, Goldeen apparently compete among themselves to see whose horn is thickest and sharpest.",
+            "evolution_chain": "55",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 94
+        },
+        {
+            "id": 119,
+            "name": "seaking",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "Its horn spins like a drill to steadily hollow out rocks—even harder ones. The coloration of the male is more vivid.",
+            "evolution_chain": "55",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 59
+        },
+        {
+            "id": 120,
+            "name": "staryu",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "In many places, there are folktales of stardust falling into the ocean and becoming Staryu.",
+            "evolution_chain": "56",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 126
+        },
+        {
+            "id": 121,
+            "name": "starmie",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Its sparkling core is called “the gem of the sea.” This core can be made into high-priced accessories that are traded in secret.",
+            "evolution_chain": "56",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                },
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            ],
+            "price": 116
+        },
+        {
+            "id": 122,
+            "name": "mr-mime",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+            "color": "pink",
+            "desc": "Its pantomime skills are wonderful. You may become enraptured while watching it, but next thing you know, Mr. Mime has made a real wall.",
+            "evolution_chain": "57",
+            "types": [
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                },
+                {
+                    "name": "fairy",
+                    "url": "https://pokeapi.co/api/v2/type/18/"
+                }
+            ],
+            "price": 97
+        },
+        {
+            "id": 123,
+            "name": "scyther",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+            "color": "rgb(52, 199, 89)",
+            "desc": "Its two sharp scythes are more than just weapons. It uses them with dexterity to dress its prey before eating.",
+            "evolution_chain": "58",
+            "types": [
+                {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 125
+        },
+        {
+            "id": 124,
+            "name": "jynx",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "It sways its hips to a rhythm all its own. The precise movements of Jynx living in Alola are truly wonderful.",
+            "evolution_chain": "59",
+            "types": [
+                {
+                    "name": "ice",
+                    "url": "https://pokeapi.co/api/v2/type/15/"
+                },
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            ],
+            "price": 141
+        },
+        {
+            "id": 125,
+            "name": "electabuzz",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "Electricity permeates its body. It swings its arms round and round to charge up electricity before unleashing a punch.",
+            "evolution_chain": "60",
+            "types": [
+                {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            ],
+            "price": 116
+        },
+        {
+            "id": 126,
+            "name": "magmar",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "Its entire body is burning. When it breathes, the temperature rises. When it sneezes, flames shoot out!",
+            "evolution_chain": "61",
+            "types": [
+                {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            ],
+            "price": 200
+        },
+        {
+            "id": 127,
+            "name": "pinsir",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "It gets into territorial disputes with Vikavolt. For some reason, it apparently gets along well with Heracross in Alola.",
+            "evolution_chain": "62",
+            "types": [
+                {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            ],
+            "price": 93
+        },
+        {
+            "id": 128,
+            "name": "tauros",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "They live in groups. The one with the longest, thickest, and most-scarred horns is the boss of the herd.",
+            "evolution_chain": "63",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            ],
+            "price": 199
+        },
+        {
+            "id": 129,
+            "name": "magikarp",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "In the distant past, they were fairly strong, but they have become gradually weaker over time.",
+            "evolution_chain": "64",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 75
+        },
+        {
+            "id": 130,
+            "name": "gyarados",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "It fires hyper beams in all directions, burning the surrounding area to ash. There are some regions where it’s called “the deity of destruction.”",
+            "evolution_chain": "64",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 68
+        },
+        {
+            "id": 131,
+            "name": "lapras",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "It likes swimming around with people on its back. In the Alola region, it’s an important means of transportation over water.",
+            "evolution_chain": "65",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                },
+                {
+                    "name": "ice",
+                    "url": "https://pokeapi.co/api/v2/type/15/"
+                }
+            ],
+            "price": 59
+        },
+        {
+            "id": 132,
+            "name": "ditto",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "While it can transform into anything, each Ditto apparently has its own strengths and weaknesses when it comes to transformations.",
+            "evolution_chain": "66",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            ],
+            "price": 69
+        },
+        {
+            "id": 133,
+            "name": "eevee",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "The question of why only Eevee has such unstable genes has still not been solved.",
+            "evolution_chain": "67",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            ],
+            "price": 191
+        },
+        {
+            "id": 134,
+            "name": "vaporeon",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Clean, clear waters are its usual habitat. When it’s about to be attacked by an invading enemy, it dives into the water to hide.",
+            "evolution_chain": "67",
+            "types": [
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 21
+        },
+        {
+            "id": 135,
+            "name": "jolteon",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "Its lungs contain an organ that creates electricity. The crackling sound of electricity can be heard when it exhales.",
+            "evolution_chain": "67",
+            "types": [
+                {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            ],
+            "price": 177
+        },
+        {
+            "id": 136,
+            "name": "flareon",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+            "color": "rgb(255, 69, 58)",
+            "desc": "If it inhales deeply, that’s a sign it’s about to attack. Prepare to be hit by flames of over 3,000 degrees Fahrenheit!",
+            "evolution_chain": "67",
+            "types": [
+                {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            ],
+            "price": 37
+        },
+        {
+            "id": 137,
+            "name": "porygon",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+            "color": "pink",
+            "desc": "This Pokémon was created using the cutting-edge science of 20 years ago, so many parts of it have since become obsolete.",
+            "evolution_chain": "68",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            ],
+            "price": 64
+        },
+        {
+            "id": 138,
+            "name": "omanyte",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Omanyte lived in the seas of antiquity. Its fossils have been found bearing bite marks from Archeops, so apparently Archeops preyed on it.",
+            "evolution_chain": "69",
+            "types": [
+                {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                },
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 139
+        },
+        {
+            "id": 139,
+            "name": "omastar",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Its heavy shell is thought to be the reason this ancient Pokémon died out. It’s apparently a distant ancestor of Octillery.",
+            "evolution_chain": "69",
+            "types": [
+                {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                },
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 134
+        },
+        {
+            "id": 140,
+            "name": "kabuto",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "This Pokémon thrived 300 million years ago. It’s said that living specimens can still be seen in a certain region—a rare sight.",
+            "evolution_chain": "70",
+            "types": [
+                {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                },
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 38
+        },
+        {
+            "id": 141,
+            "name": "kabutops",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "Its body had begun to change so it could function on land. But it didn’t adapt in time and went extinct.",
+            "evolution_chain": "70",
+            "types": [
+                {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                },
+                {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            ],
+            "price": 108
+        },
+        {
+            "id": 142,
+            "name": "aerodactyl",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Restored from DNA found in amber, this Pokémon exhibited ferocity that was greater than expected. Some casualties resulted.",
+            "evolution_chain": "71",
+            "types": [
+                {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 180
+        },
+        {
+            "id": 143,
+            "name": "snorlax",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+            "color": "black",
+            "desc": "It doesn’t do anything other than eat and sleep. When prompted to make a serious effort, though, it apparently displays awesome power.",
+            "evolution_chain": "72",
+            "types": [
+                {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            ],
+            "price": 188
+        },
+        {
+            "id": 144,
+            "name": "articuno",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+            "evolution_chain": "73",
+            "types": [
+                {
+                    "name": "ice",
+                    "url": "https://pokeapi.co/api/v2/type/15/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 180
+        },
+        {
+            "id": 145,
+            "name": "zapdos",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
+            "evolution_chain": "74",
+            "types": [
+                {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 53
+        },
+        {
+            "id": 146,
+            "name": "moltres",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+            "color": "rgb(255, 196, 84)",
+            "desc": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+            "evolution_chain": "75",
+            "types": [
+                {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 97
+        },
+        {
+            "id": 147,
+            "name": "dratini",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "It’s still weak, so it lurks on the floor of bodies of water, eating whatever food sinks down and living a quiet life.",
+            "evolution_chain": "76",
+            "types": [
+                {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                }
+            ],
+            "price": 172
+        },
+        {
+            "id": 148,
+            "name": "dragonair",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+            "color": "rgb(10, 132, 255)",
+            "desc": "Lakes where Dragonair live are filled with offerings from people, because they believe this Pokémon is able to control the weather.",
+            "evolution_chain": "76",
+            "types": [
+                {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                }
+            ],
+            "price": 84
+        },
+        {
+            "id": 149,
+            "name": "dragonite",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+            "color": "rgb(210, 106, 36)",
+            "desc": "It flies over raging seas as if they were nothing. Observing this, a ship’s captain dubbed this Pokémon “the sea incarnate.”",
+            "evolution_chain": "76",
+            "types": [
+                {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                },
+                {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            ],
+            "price": 120
+        },
+        {
+            "id": 150,
+            "name": "mewtwo",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+            "color": "rgb(112, 90, 159)",
+            "desc": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon’s body, they failed to endow Mewtwo with a compassionate heart.",
+            "evolution_chain": "77",
+            "types": [
+                {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            ],
+            "price": 74
+        }
+    ]
+}

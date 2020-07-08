@@ -1,0 +1,14 @@
+.app-header {
+    align-items: center;
+    background: #691212;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5rem;
+}
+
+.app-header__logo {
+    height: 98px;
+    width: 270px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg);
+
+}

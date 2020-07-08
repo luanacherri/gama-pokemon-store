@@ -1,0 +1,9 @@
+.app-container {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px 10px;
+    bottom: 2rem;
+    width: 70%;
+}
